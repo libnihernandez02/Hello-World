@@ -1,48 +1,49 @@
-<! DOCTYPE html >
-< html >
-< cabeza >
-	< título > HTML </ título >
-</ cabeza >
+<!DOCTYPE html>
+<html>
+<head>
+	<title>HTML</title>
+</head>
+<body>
+<div  align = " center " >
+		   <div  align = " center " >
 
-< cuerpo >
-	< div  align = " center " >
-		   < div  align = " center " >
-
-        	< img  src = " que-es-html.jpg " >
-        </ div >
-		< h1 > ¿Qué es HTML? </ h1 >
-	</ div >
-	< p >
-		< Br /> “HTML Es Un lenguaje de Marcado, Que se utilizació para el Desarrollo de páginas de Internet. Se trata de las iniciales que corresponden a HyperText Markup Language, es decir, Lenguaje de Marcas de Hipertexto ”
+        	<img  src = " que-es-html.jpg " >
+        </div >
+		<h1 > ¿Qué es HTML? </h1 >
+	</div >
+	<p >
+		<Br /> “HTML Es Un lenguaje de Marcado, Que se utilizació para el Desarrollo de páginas de Internet. Se trata de las iniciales que corresponden a HyperText Markup Language, es decir, Lenguaje de Marcas de Hipertexto ”
 
 		No obstante, este tipo de frecuencia no dice mucho porque la definición es técnica. Para algunas personas al leer esto, piensan que HTML incluye el diseño gráfico de las páginas web, sin embargo eso no es cierto, ya que HTML solo sirve para indicar como va ordenado el contenido de una página web. Esto es lo que hace por medio de las marcas de hipertexto las cuales son etiquetas específicas en inglés como etiquetas.
      
 		
 
-	</ p >
-	< h2  align = " center " > Origen </ h2 >
-	< p >
-		< Br /> Se Trata de la ONU formato abierto Que Surgió A partir de las Etiquetas SGML (Standard Generalized Markup Language). Concepto traducido generalmente como «Estándar de Lenguaje de Marcado Generalizado» y que se entiende como un sistema que permite ordenar y etiquetar diversos documentos dentro de una lista. Este lenguaje es el que se utiliza para especificar los nombres de las etiquetas que se utilizarán al ordenar, no existen reglas para dicha organización, por eso se dice que es un sistema de formato abierto.
+	</p >
+	<h2  align = " center " > Origen </h2 >
+	<p>
+		<Br /> Se Trata de la ONU formato abierto Que Surgió A partir de las Etiquetas SGML (Standard Generalized Markup Language). Concepto traducido generalmente como «Estándar de Lenguaje de Marcado Generalizado» y que se entiende como un sistema que permite ordenar y etiquetar diversos documentos dentro de una lista. Este lenguaje es el que se utiliza para especificar los nombres de las etiquetas que se utilizarán al ordenar, no existen reglas para dicha organización, por eso se dice que es un sistema de formato abierto.
 
-		< Br /> Para la escritura de Este lenguaje, se Crean Etiquetas Que Aparecen especificadas un Través de corchetes o Paréntesis angulares: <  y  > . Entre sus componentes, los elementos dan forma a la estructura esencial del lenguaje, ya que tienen dos propiedades (el contenido en sí mismo y sus atributos).
-	</ p >
+		<Br /> Para la escritura de Este lenguaje, se Crean Etiquetas Que Aparecen especificadas un Través de corchetes o Paréntesis angulares: <  y  > . Entre sus componentes, los elementos dan forma a la estructura esencial del lenguaje, ya que tienen dos propiedades (el contenido en sí mismo y sus atributos).
+	</p>
 
-	< h2  align = " center " > Otra definición de HTML </ h2 >
-    < p >
+	<h2  align = " center " > Otra definición de HTML </h2 >
+    <p>
      Es un lenguaje muy simple y general que sirve para definir otros idiomas que tienen que ver con el formato de los documentos. El texto en él se crea a partir de etiquetas, también llamadas etiquetas, que permite interconectar diversos conceptos y formatos.
      
      En su mayoría de los atributos de un elemento son pares nombre-valor, separados por un signo de igual «=» y escritos en la etiqueta de comienzo de un elemento, después del nombre del elemento. El valor puede estar rodeado por comillas dobles o simples, aunque ciertos tipos de valores pueden estar sin comillas en HTML (pero no en XHTML).
-    </ p >
-    < h2  align = " center " > Aprender HTML analizando páginas reales </ h2 >
+    </p >
+    <h2  align = " center " > Aprender HTML analizando páginas reales </h2 >
 
-    < p >
-    	< Br /> Seleccionando la Opción «Ver código fuente» en el Navegador, SE Puede ver Realmente LA INFORMACIÓN Que esta Recibiendo el Navegador Web y Como La this interpretando.
+    <p>
+    	<Br /> Seleccionando la Opción «Ver código fuente» en el Navegador, SE Puede ver Realmente LA INFORMACIÓN Que esta Recibiendo el Navegador Web y Como La this interpretando.
         Por ejemplo: en Internet Explorer o en Firefox, simplemente hay que desplegar el menú «ver» y luego elegir «código fuente», mientras que en Chrome presionar Ctrl + U. De esta forma, abrirá el editor de texto configurado como predeterminado en el sistema con el código fuente de la página que estará viendo en ese momento en el explorador. Otra forma más rápida consiste en hacer clic con el botón derecho del mouse en cualquier punto del área donde el navegador muestra la página web y elegir «ver código fuente».
 
-        < Br /> Aparte de Poder ver el código fuente HTML De Una Página Web con las OPCIONES Antes descritas, Internet Explorer, Firefox y Google Chrome incorporan también Unas Herramientas conocidas Como Inspectores de página Que Se Puede Activar con F12.
+        <Br /> Aparte de Poder ver el código fuente HTML De Una Página Web con las OPCIONES Antes descritas, Internet Explorer, Firefox y Google Chrome incorporan también Unas Herramientas conocidas Como Inspectores de página Que Se Puede Activar con F12.
 
-        < Br /> Con Estas Herramientas Es Posible visualizar Una Página Web y select Dentro de ella ONU Elemento concreto del cual sea Queremos conocer cual es el código HTML Con El Que Esta Hecho señalando el Elemento en cuestión f simplemente con el ratón. Al hacer esto, el código se encuentra en un área especial dentro del navegador en el que puede el usuario puede ver el código HTML en cuestión (además de las reglas CSS que requieren un código HTML en concreto). Este tipo de análisis resulta extremadamente instructivo para aprender a desarrollar en HTML.
-    </ p >
+        <Br /> Con Estas Herramientas Es Posible visualizar Una Página Web y select Dentro de ella ONU Elemento concreto del cual sea Queremos conocer cual es el código HTML Con El Que Esta Hecho señalando el Elemento en cuestión f simplemente con el ratón. Al hacer esto, el código se encuentra en un área especial dentro del navegador en el que puede el usuario puede ver el código HTML en cuestión (además de las reglas CSS que requieren un código HTML en concreto). Este tipo de análisis resulta extremadamente instructivo para aprender a desarrollar en HTML.
+    </p>
 
-</ cuerpo >
-</ html >
+</body>
+</html>
+
+	
